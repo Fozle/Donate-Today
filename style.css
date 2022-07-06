@@ -202,3 +202,36 @@ footer p{
 .donation-image{
     margin-top: 100px;
 }
+
+
+
+.box-shadow{
+    width: 50%;
+    box-shadow: 5px 5px  20px gray;
+    padding: 20px;
+    border-radius: 10px;
+    
+}
+.box-shadow img{
+    width: 100%;
+}
+.box-shadow-a{
+    margin-left: 5%;
+    margin-right: 4%;
+}
+.box-shadow-b{
+    margin-right: 5%;
+}
+.box-shadow-flux{
+    display: flex;
+}
+.box-shadow h1{
+    font-family: 'Inter', sans-serif;
+    font-size: 50px;
+    color: black;
+}
+.box-shadow p{
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    line-height: 28px;
+}
